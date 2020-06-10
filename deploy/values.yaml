@@ -1,0 +1,7 @@
+image:
+  repository: fernandes/base-image
+  tag: latest
+  pullPolicy: IfNotPresent
+
+baseImage:
+  replicaCount: 2
